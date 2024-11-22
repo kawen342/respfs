@@ -1,0 +1,14 @@
+/* Styling untuk judul "My Services" */
+.services-container h2 {
+    color: #FFD700; /* Warna kuning untuk teks judul */
+    font-size: 2em;
+    text-align: center; /* Menempatkan judul di tengah */
+  }
+  
+  /* Styling untuk item-item di daftar layanan */
+  .services-container ul li {
+    color: #FFD700; /* Warna kuning untuk teks item daftar */
+    font-size: 1.2em;
+    margin-bottom: 10px;
+  }
+  

@@ -1,0 +1,29 @@
+/* About.css */
+.about-container {
+    text-align: center;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .about-container h2 {
+    color: #FFA500; /* Warna oren */
+    font-size: 2rem;
+    margin-bottom: 10px;
+  }
+  
+  .about-container p {
+    font-size: 1.2rem;
+    color: #FFA500; /* Warna oren */
+    line-height: 1.6;
+  }
+  
+  .about-container img {
+    margin-top: 20px;
+    width: 100%;
+    max-width: 500px;
+    height: auto;
+    border-radius: 8px;
+    border: 2px solid #2c3e50;
+  }
+  
